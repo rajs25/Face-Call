@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4805320910",
+    "project_id": "face-call-5be94",
+    "storage_bucket": "face-call-5be94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4805320910:android:5332faa4f834210b24f09f",
+        "android_client_info": {
+          "package_name": "com.example.facecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4805320910-v0c58aalst6vlj1lhr4l35o48gvr08b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7aNX4qk45KJ-YoJNIjZ7sVN3fXQyds4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4805320910-v0c58aalst6vlj1lhr4l35o48gvr08b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
